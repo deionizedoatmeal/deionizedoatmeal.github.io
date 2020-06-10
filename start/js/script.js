@@ -128,7 +128,7 @@ let CONFIG = {
       quickLaunch: false,
     },
     {
-      category: 'Outdor',
+      category: 'Outdoor',
       name: 'Komoot',
       key: 'k',
       url: 'https://komoot.com',
