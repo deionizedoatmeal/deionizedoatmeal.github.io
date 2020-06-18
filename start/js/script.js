@@ -49,7 +49,7 @@ let CONFIG = {
       key: 'a',
       url: 'https://astrobites.org/',
       color: 'linear-gradient(135deg, #dd5145, #dd5145)',
-      icon: 'circle',
+      icon: 'astrobites',
       quickLaunch: true,
     },
     {
@@ -58,7 +58,7 @@ let CONFIG = {
       key: 'o',
       url: 'https://apod.nasa.gov',
       color: 'linear-gradient(135deg, #53341C, #F48024)',
-      icon: 'circle',
+      icon: 'apod',
       quickLaunch: true,
     },
     {
@@ -67,7 +67,7 @@ let CONFIG = {
       key: 'x',
       url: 'https://arxiv.org',
       color: 'linear-gradient(135deg, #FF6600, #DC5901)',
-      icon: 'circle',
+      icon: 'arXiv',
       quickLaunch: true,
     },
     {
@@ -95,7 +95,7 @@ let CONFIG = {
       key: 'x',
       url: 'https://xkcd.com/',
       color: 'linear-gradient(135deg, #6441a5, #4b367c)',
-      icon: 'circle',
+      icon: 'xkcd',
       quickLaunch: false,
     },
     {
@@ -124,7 +124,7 @@ let CONFIG = {
       key: 'y',
       url: 'https://darksky.net',
       color: 'linear-gradient(135deg, #7A5F00, #E8B708)',
-      icon: 'circle',
+      icon: 'darksky',
       quickLaunch: false,
     },
     {
@@ -133,7 +133,7 @@ let CONFIG = {
       key: 'k',
       url: 'https://komoot.com',
       color: 'linear-gradient(135deg, #FF8456, #FF4500)',
-      icon: 'circle',
+      icon: 'komoot',
       quickLaunch: false,
     },
     {
@@ -142,7 +142,7 @@ let CONFIG = {
       key: 's',
       url: 'https://www.strava.com',
       color: 'linear-gradient(135deg, #1DA1F2, #19608F)',
-      icon: 'circle',
+      icon: 'strava',
       quickLaunch: true,
     },
     {
@@ -151,7 +151,7 @@ let CONFIG = {
       key: 'p',
       url: 'https://www.mountainproject.com',
       color: 'linear-gradient(135deg, #7A5F00, #E8B708)',
-      icon: 'circle',
+      icon: 'mountain',
       quickLaunch: false,
     },
   ],
