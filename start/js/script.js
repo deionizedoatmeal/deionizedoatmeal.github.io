@@ -154,6 +154,15 @@ let CONFIG = {
       icon: 'mountain',
       quickLaunch: false,
     },
+    {
+      category: 'Outdoor',
+      name: 'National Weather Service',
+      key: 'w',
+      url: 'https://forecast.weather.gov/MapClick.php?lat=44.053&lon=-123.1122&unit=0&lg=english&FcstType=graphical',
+      color: 'linear-gradient(135deg, #7A5F00, #E8B708)',
+      icon: 'noaa',
+      quickLaunch: false,
+    },
   ],
 
   /**
