@@ -163,15 +163,15 @@ template {
 }
 
 @font-face {
-  font-family: 'Metropolis';
-  src: local('Metropolis-Medium'), url('../assets/fonts/Metropolis-Medium.woff2');
+  font-family: 'JetBrainsMono';
+  src: local('JetBrainsMono-Medium'), url('../assets/fonts/JetBrainsMono-Medium.woff2');
   font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Metropolis';
-  src: local('Metropolis-Bold'), url('../assets/fonts/Metropolis-Black.woff2');
+  font-family: 'JetBrainsMono';
+  src: local('JetBrainsMono-Bold'), url('../assets/fonts/JetBrainsMono-Black.woff2');
   font-weight: 900;
   font-style: normal;
 }
@@ -181,7 +181,7 @@ template {
 }
 
 html {
-  font-family: "Metropolis", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-family: "JetBrainsMono", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-size: var(--base-font-size);
   font-weight: var(--font-weight-normal);
 }
