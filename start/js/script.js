@@ -147,15 +147,6 @@ let CONFIG = {
     },
     {
       category: 'Outdoor',
-      name: 'Mountain Project',
-      key: 'p',
-      url: 'https://www.mountainproject.com',
-      color: 'linear-gradient(135deg, #7A5F00, #E8B708)',
-      icon: 'mountain',
-      quickLaunch: false,
-    },
-    {
-      category: 'Outdoor',
       name: 'NOAA NWS',
       key: 'w',
       url: 'https://forecast.weather.gov/MapClick.php?lat=44.053&lon=-123.1122&unit=0&lg=english&FcstType=graphical',
