@@ -183,7 +183,7 @@ let CONFIG = {
     },
     {
       category: 'Outdoor',
-      name: 'Outdoor Project',
+      name: 'Outdoor Proj.',
       key: '',
       url: 'https://outdoorproject.com',
       color: 'linear-gradient(135deg, #E50914, #CB020C)',
