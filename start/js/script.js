@@ -30,7 +30,7 @@ let CONFIG = {
       search: '/drive/search?q={}',
       color: 'linear-gradient(135deg, #DB4437, #4285F4, #0F9D58)',
       icon: 'drive',
-      quickLaunch: true,
+      quickLaunch: false,
     },
     {
       category: 'Research',
@@ -50,7 +50,7 @@ let CONFIG = {
       search: '/search/{}',
       color: 'linear-gradient(135deg, #4285F4, #0F9D58)',
       icon: 'maps',
-      quickLaunch: true,
+      quickLaunch: false,
     },
     {
       category: 'Research',
@@ -78,7 +78,7 @@ let CONFIG = {
       search: '/search/physics?query={}&searchtype=all&abstracts=show&order=-announced_date_first&size=50',
       color: 'linear-gradient(135deg, #800000, #B9C2D9)',
       icon: 'arXiv',
-      quickLaunch: true,
+      quickLaunch: false,
     },
     {
       category: 'Research',
@@ -97,7 +97,7 @@ let CONFIG = {
       search: '/results?search_query={}',
       color: 'linear-gradient(135deg, #FF0000, #282828)',
       icon: 'youtube',
-      quickLaunch: true,
+      quickLaunch: false,
     },
     {
       category: 'Fun',
@@ -107,7 +107,7 @@ let CONFIG = {
       search: '/search?q={}',
       color: 'linear-gradient(135deg, #E50914, #000000)',
       icon: 'netflix',
-      quickLaunch: true,
+      quickLaunch: false,
     },
     {
       category: 'Fun',
@@ -116,7 +116,7 @@ let CONFIG = {
       url: 'https://www.amazon.com/Amazon-Video/b/?ie=UTF8&node=2858778011&ref_=nav_cs_prime_video',
       color: 'linear-gradient(135deg, #FF9900, #232F3E)',
       icon: 'prime',
-      quickLaunch: true,
+      quickLaunch: false,
     },
     {
       category: 'Fun',
@@ -135,7 +135,7 @@ let CONFIG = {
       search: '/search?q={}',
       color: 'linear-gradient(135deg, #5F99CF, #FF4500)',
       icon: 'reddit',
-      quickLaunch: true,
+      quickLaunch: false,
     },
     {
       category: 'General',
@@ -145,7 +145,7 @@ let CONFIG = {
       search: '/search?q={}&src=typed_query',
       color: 'linear-gradient(135deg, #1da1f2, #14171a)',
       icon: 'twitter',
-      quickLaunch: true,
+      quickLaunch: false,
     },
     {
       category: 'Outdoor',
@@ -154,7 +154,7 @@ let CONFIG = {
       url: 'https://darksky.net',
       color: 'linear-gradient(135deg, #000000, #1da1f2)',
       icon: 'darksky',
-      quickLaunch: true,
+      quickLaunch: false,
     },
     {
       category: 'Research',
@@ -164,7 +164,7 @@ let CONFIG = {
       search: '/input/?i={}',
       color: 'linear-gradient(135deg, #FFA500, #FFFFFF)',
       icon: 'wolfram',
-      quickLaunch: true,
+      quickLaunch: false,
     },
     {
       category: 'Outdoor',
@@ -173,7 +173,7 @@ let CONFIG = {
       url: 'https://komoot.com',
       color: 'linear-gradient(135deg, #3d3d3d, #228B22)',
       icon: 'komoot',
-      quickLaunch: true,
+      quickLaunch: false,
     },
     {
       category: 'Outdoor',
@@ -182,7 +182,7 @@ let CONFIG = {
       url: 'https://www.strava.com',
       color: 'linear-gradient(135deg, #fc4c02, #3d3d3d',
       icon: 'strava',
-      quickLaunch: true,
+      quickLaunch: false,
     },
     {
       category: 'Outdoor',
@@ -191,7 +191,7 @@ let CONFIG = {
       url: 'https://outdoorproject.com',
       color: 'linear-gradient(135deg, #E50914, #CB020C)',
       icon: 'outdoorproj',
-      quickLaunch: true,
+      quickLaunch: false,
     },
     {
       category: 'Outdoor',
@@ -209,7 +209,7 @@ let CONFIG = {
       url: 'https://longform.org/',
       color: 'linear-gradient(135deg, #777777, #B9C2D9)',
       icon: 'longform',
-      quickLaunch: true,
+      quickLaunch: false,
     },
     {
       category: 'Reading',
@@ -218,7 +218,7 @@ let CONFIG = {
       url: 'https://readwildness.com',
       color: 'linear-gradient(135deg, #98ff98, #3d3d3d)',
       icon: 'wildness',
-      quickLaunch: true,
+      quickLaunch: false,
     },
     {
       category: 'Reading',
@@ -227,7 +227,7 @@ let CONFIG = {
       url: 'https://www.philosophybro.com',
       color: 'linear-gradient(135deg, #666666, #B9C2D9)',
       icon: 'philbro',
-      quickLaunch: true,
+      quickLaunch: false,
     },
     {
       category: 'Reading',
@@ -236,7 +236,7 @@ let CONFIG = {
       url: 'http://nautil.us/',
       color: 'linear-gradient(135deg, #ffd800, #2d2d2d)',
       icon: 'nautilus',
-      quickLaunch: true,
+      quickLaunch: false,
     },
     {
       category: 'Reading',
@@ -245,7 +245,7 @@ let CONFIG = {
       url: 'https://www.quantamagazine.org',
       color: 'linear-gradient(135deg, #cd7f32, #2d2d2d)',
       icon: 'quanta',
-      quickLaunch: true,
+      quickLaunch: false,
     },
   ],
 
