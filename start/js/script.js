@@ -150,7 +150,7 @@ let CONFIG = {
     {
       category: 'Outdoor',
       name: 'Darksky',
-      key: 'y',
+      key: '',
       url: 'https://darksky.net',
       color: 'linear-gradient(135deg, #000000, #1da1f2)',
       icon: 'darksky',
