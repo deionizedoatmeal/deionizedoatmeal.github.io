@@ -33,7 +33,7 @@ let CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'General',
+      category: 'Research',
       name: 'Github',
       key: 'g',
       url: 'https://github.com',
