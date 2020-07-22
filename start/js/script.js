@@ -47,7 +47,7 @@ let CONFIG = {
       name: 'Maps',
       key: 'm',
       url: 'https://google.com/maps/',
-      search: '/search/{}',
+      search: '/maps/search/{}',
       color: 'linear-gradient(135deg, #4285F4, #0F9D58)',
       icon: 'maps',
       quickLaunch: false,
