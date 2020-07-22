@@ -43,7 +43,7 @@ let CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'Outdoor',
+      category: 'General',
       name: 'Maps',
       key: 'm',
       url: 'https://google.com/maps',
@@ -53,7 +53,7 @@ let CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'Reading',
+      category: 'Research',
       name: 'Astrobites',
       key: '',
       url: 'https://astrobites.org/',
@@ -71,7 +71,7 @@ let CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'Reading',
+      category: 'Research',
       name: 'arXiv',
       key: 'x',
       url: 'https://arxiv.org',
@@ -81,7 +81,7 @@ let CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'General',
+      category: 'Research',
       name: 'Overleaf',
       key: '',
       url: 'https://www.overleaf.com',
@@ -128,7 +128,7 @@ let CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'Social',
+      category: 'General',
       name: 'Reddit',
       key: 'r',
       url: 'https://reddit.com',
@@ -138,7 +138,7 @@ let CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'Social',
+      category: 'General',
       name: 'Twitter',
       key: 't',
       url: 'https://twitter.com',
@@ -157,7 +157,7 @@ let CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'General',
+      category: 'Research',
       name: 'Wolfram Alpha',
       key: 'w',
       url: 'https://wolframalpha.com',
