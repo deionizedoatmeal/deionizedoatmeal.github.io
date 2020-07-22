@@ -208,7 +208,7 @@ let CONFIG = {
       key: '',
       url: 'https://longform.org/',
       color: 'linear-gradient(135deg, #800000, #B9C2D9)',
-      icon: 'circle',
+      icon: 'longform',
       quickLaunch: true,
     },
     {
@@ -217,7 +217,7 @@ let CONFIG = {
       key: '',
       url: 'https://readwildness.com',
       color: 'linear-gradient(135deg, #3EB489, #3d3d3d)',
-      icon: 'circle',
+      icon: 'wildness',
       quickLaunch: true,
     },
     {
@@ -226,7 +226,7 @@ let CONFIG = {
       key: '',
       url: 'https://www.philosophybro.com',
       color: 'linear-gradient(135deg, #800000, #B9C2D9)',
-      icon: 'circle',
+      icon: 'philbro',
       quickLaunch: true,
     },
     {
@@ -235,7 +235,7 @@ let CONFIG = {
       key: '',
       url: 'http://nautil.us/',
       color: 'linear-gradient(135deg, ##ffd800, #2d2d2d)',
-      icon: 'circle',
+      icon: 'nautilus',
       quickLaunch: true,
     },
     {
@@ -244,7 +244,7 @@ let CONFIG = {
       key: '',
       url: 'https://www.quantamagazine.org',
       color: 'linear-gradient(135deg, #cd7f32, #2d2d2d)',
-      icon: 'circle',
+      icon: 'quanta',
       quickLaunch: true,
     },
   ],
