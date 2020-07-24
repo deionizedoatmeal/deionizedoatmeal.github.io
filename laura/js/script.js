@@ -36,7 +36,7 @@ let CONFIG = {
       category: 'News',
       name: 'Washington Post',
       key: 'wp',
-            url: 'https://www.washingtonpost.com',
+      url: 'https://www.washingtonpost.com',
       search: '/newssearch/?query={}',
       color: 'linear-gradient(135deg, #FFFFFF, #000000)',
       icon: 'wp',
