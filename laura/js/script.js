@@ -73,7 +73,7 @@ let CONFIG = {
       quickLaunch: false,
     },
     {
-      category: 'Shopping',
+      category: 'General',
       name: 'Pintrest',
       key: 'p',
       url: 'https://www.pinterest.com',
@@ -93,7 +93,7 @@ let CONFIG = {
       quickLaunch: false,
     },
     {
-      category: 'General',
+      category: 'News',
       name: 'Google News',
       key: 'g',
       url: 'https://news.google.com',
