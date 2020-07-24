@@ -169,7 +169,7 @@ let CONFIG = {
     },
     {
       category: 'Shopping',
-      name: 'Thred Up',
+      name: 'Thredup',
       key: '',
       url: 'https://www.thredup.com',
       color: 'linear-gradient(135deg, #3d3d3d, #444444)',
