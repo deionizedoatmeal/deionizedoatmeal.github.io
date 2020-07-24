@@ -113,7 +113,7 @@ let CONFIG = {
       quickLaunch: false,
     },
     {
-      category: 'Shoping',
+      category: 'Shopping',
       name: 'Amazon',
       key: 'a',
       color: 'linear-gradient(135deg, #FF9900, #232F3E)',
