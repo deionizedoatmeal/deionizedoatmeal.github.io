@@ -324,7 +324,7 @@ let CONFIG = {
   /**
    * Show a twenty-four-hour clock instead of a twelve-hour clock with AM/PM.
    */
-  twentyFourHourClock: true,
+  twentyFourHourClock: false,
 };
 
 // Get invertedColors preference from cookies
