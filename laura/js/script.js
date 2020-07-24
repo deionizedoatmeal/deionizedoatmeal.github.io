@@ -117,6 +117,7 @@ let CONFIG = {
       name: 'Amazon',
       key: 'a',
       url: 'https://www.amazon.com',
+      search: '/s?k={}',
       color: 'linear-gradient(135deg, #FF9900, #232F3E)',
       icon: 'prime',
       quickLaunch: false,
