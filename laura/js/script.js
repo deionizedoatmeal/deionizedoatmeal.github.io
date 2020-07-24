@@ -95,7 +95,7 @@ let CONFIG = {
     {
       category: 'General',
       name: 'Google News',
-      key: 'n',
+      key: 'g',
       url: 'https://news.google.com',
       search: '/search?q=1234',
       color: 'linear-gradient(135deg, #DB4437, #4285F4, #0F9D58)',
@@ -117,7 +117,7 @@ let CONFIG = {
       name: 'Amazon',
       key: 'a',
       url: 'https://www.amazon.com',
-      search: '/s?k={}',
+      search: '/s?k={}&ref=nb_sb_noss_2',
       color: 'linear-gradient(135deg, #FF9900, #232F3E)',
       icon: 'prime',
       quickLaunch: false,
