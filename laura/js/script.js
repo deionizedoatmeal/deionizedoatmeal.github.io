@@ -232,7 +232,6 @@ let CONFIG = {
    */
   defaultSuggestions: {
     g: ['g/issues', 'g/pulls', 'gist.github.com'],
-    r: ['r/r/unixporn', 'r/r/startpages', 'r/r/webdev', 'r/r/technology'],
   },
 
   /**
