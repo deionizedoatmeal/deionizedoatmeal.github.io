@@ -164,7 +164,7 @@ let CONFIG = {
       name: 'Scholar',
       key: 's',
       url: 'https://scholar.google.com',
-      search: '?q={}',
+      search: '/scholar?&q={}',
       color: 'linear-gradient(135deg, #DB4437, #4285F4, #0F9D58)',
       icon: 'scholar',
       quickLaunch: false,
