@@ -24,7 +24,7 @@ let CONFIG = {
     },
     {
       category: 'News',
-      name: 'nyt',
+      name: 'NYT',
       key: 'n',
       url: 'https://www.nytimes.com',
       search: '/search?q={}',
