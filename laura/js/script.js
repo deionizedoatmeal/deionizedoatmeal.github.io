@@ -24,8 +24,8 @@ let CONFIG = {
     },
     {
       category: 'News',
-      name: 'New York Times',
-      key: 'nyt',
+      name: 'nyt',
+      key: 'n',
       url: 'https://www.nytimes.com',
       search: '/search?q={}',
       color: 'linear-gradient(135deg, #FFFFFF, #000000)',
@@ -34,8 +34,8 @@ let CONFIG = {
     },
     {
       category: 'News',
-      name: 'Washington Post',
-      key: 'wp',
+      name: 'WaPo',
+      key: 'w',
       url: 'https://www.washingtonpost.com',
       search: '/newssearch/?query={}',
       color: 'linear-gradient(135deg, #FFFFFF, #000000)',
@@ -45,7 +45,7 @@ let CONFIG = {
     {
       category: 'News',
       name: 'CNN',
-      key: 'cnn',
+      key: 'c',
       url: 'https://cnn.com',
       search: '/search?q={}',
       color: 'linear-gradient(135deg, #FFFFFF, #CC0000)',
@@ -55,7 +55,7 @@ let CONFIG = {
     {
       category: 'News',
       name: 'Oregonian',
-      key: 'or',
+      key: 'o',
       url: 'https://www.oregonlive.com/',
       search: '/search?q={}',
       color: 'linear-gradient(135deg, #FFFFFF, #000000)',
@@ -85,7 +85,7 @@ let CONFIG = {
     {
       category: 'Shopping',
       name: 'Home Depot',
-      key: 'hd',
+      key: 'h',
       url: 'https://www.homedepot.com',
       search: '/s/{}?',
       color: 'linear-gradient(135deg, #ee7125, #FFFFFF)',
@@ -95,7 +95,7 @@ let CONFIG = {
     {
       category: 'General',
       name: 'Google News',
-      key: 'gn',
+      key: 'n',
       url: 'https://news.google.com',
       search: '/search?q=1234',
       color: 'linear-gradient(135deg, #DB4437, #4285F4, #0F9D58)',
@@ -105,7 +105,7 @@ let CONFIG = {
     {
       category: 'UO',
       name: 'Library',
-      key: 'uol',
+      key: 'l',
       url: 'https://library.uoregon.edu/',
       search: '/site-search?as_q={}',
       color: 'linear-gradient(135deg, #154733, #FEE123)',
