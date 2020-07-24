@@ -39,7 +39,7 @@ let CONFIG = {
             url: 'https://www.washingtonpost.com',
       search: '/newssearch/?query={}',
       color: 'linear-gradient(135deg, #FFFFFF, #000000)',
-      icon: 'wapo',
+      icon: 'wp',
       quickLaunch: false,
     },
     {
@@ -126,7 +126,7 @@ let CONFIG = {
       key: '',
       url: 'https://canvas.uoregon.edu',
       color: 'linear-gradient(135deg, #154733, #FEE123)',
-      icon: 'uo',
+      icon: 'canvas',
       quickLaunch: false,
     },
     {
@@ -182,7 +182,7 @@ let CONFIG = {
       key: '',
       url: 'https://www.oregonhikers.org',
       color: 'linear-gradient(135deg, #E50914, #CB020C)',
-      icon: 'orhikers',
+      icon: 'orhike',
       quickLaunch: false,
     },
     {
