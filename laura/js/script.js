@@ -77,7 +77,7 @@ let CONFIG = {
       name: 'Pintrest',
       key: 'p',
       url: 'https://www.pinterest.com',
-      search: '/s?k={}',
+      search: '/search/pins/?q={}',
       color: 'linear-gradient(135deg, #E60023, #FFFFFF)',
       icon: 'pintrest',
       quickLaunch: false,
