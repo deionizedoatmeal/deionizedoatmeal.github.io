@@ -435,6 +435,7 @@ body.form .search-form {
 @media (min-width: 500px) {
   .help {
     display: flex;
+    flex-wrap: wrap;
     padding: 0;
   }
 
@@ -452,6 +453,7 @@ body.form .search-form {
 
   .categories {
     display: flex;
+    flex-wrap: wrap;
     grid-template-columns: repeat(2, 300px) 175px;
   }
 }
