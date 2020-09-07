@@ -63,16 +63,6 @@ let CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'Outdoor',
-      name: 'Maps',
-      key: 'm',
-      url: 'https://google.com/maps/',
-      search: '/maps/search/{}',
-      color: 'linear-gradient(135deg, #4285F4, #0F9D58)',
-      icon: 'maps',
-      quickLaunch: false,
-    },
-    {
       category: 'Science',
       name: 'Astrobites',
       key: '',
@@ -165,6 +155,16 @@ let CONFIG = {
       search: '/search?q={}&src=typed_query',
       color: 'linear-gradient(135deg, #1da1f2, #14171a)',
       icon: 'twitter',
+      quickLaunch: false,
+    },
+    {
+      category: 'Outdoor',
+      name: 'Maps',
+      key: 'm',
+      url: 'https://google.com/maps/',
+      search: '/maps/search/{}',
+      color: 'linear-gradient(135deg, #4285F4, #0F9D58)',
+      icon: 'maps',
       quickLaunch: false,
     },
     {
