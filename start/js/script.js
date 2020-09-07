@@ -39,7 +39,7 @@ let CONFIG = {
       url: 'https://portal.colgate.edu',
       search: '',
       color: 'linear-gradient(135deg, #821019, #5A646E)',
-      icon: 'circ',
+      icon: 'circle',
       quickLaunch: false,
     },
     {
@@ -49,7 +49,7 @@ let CONFIG = {
       url: 'https://moodle.colgate.edu',
       search: '',
       color: 'linear-gradient(135deg, #821019, #5A646E)',
-      icon: 'circ',
+      icon: 'circle',
       quickLaunch: false,
     },
     {
@@ -193,7 +193,7 @@ let CONFIG = {
       url: 'https://physics.aps.org',
       search: '',
       color: 'linear-gradient(135deg, #301934, #5A646E)',
-      icon: 'circ',
+      icon: 'circle',
       quickLaunch: false,
     },
     {
@@ -203,7 +203,7 @@ let CONFIG = {
       url: 'https://www.physicscentral.com',
       search: '',
       color: 'linear-gradient(135deg, #301934, #5A646E)',
-      icon: 'circ',
+      icon: 'circle',
       quickLaunch: false,
     },
     {
@@ -248,7 +248,7 @@ let CONFIG = {
       key: 'w',
       url: 'https://www.wikipedia.org',
       color: 'linear-gradient(135deg, #FFFFFF, #000000)',
-      icon: 'circ',
+      icon: 'circle',
       quickLaunch: false,
     },
     {
