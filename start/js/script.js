@@ -199,7 +199,7 @@ let CONFIG = {
     {
       category: 'Science',
       name: 'NASA ADS',
-      key: '',
+      key: 'h',
       url: 'https://ui.adsabs.harvard.edu',
       search: '/search/q=author"{}"',
       color: 'linear-gradient(135deg, #00008B, #5A646E)',
