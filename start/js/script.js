@@ -85,7 +85,7 @@ let CONFIG = {
       name: 'arXiv',
       key: 'x',
       url: 'https://arxiv.org',
-      search: '/search/physics?query={}&searchtype=all&abstracts=show&order=-announced_date_first&size=50',
+      search: '/search/?query={}&searchtype=all&abstracts=show&order=-announced_date_first&size=50',
       color: 'linear-gradient(135deg, #800000, #B9C2D9)',
       icon: 'arXiv',
       quickLaunch: false,
