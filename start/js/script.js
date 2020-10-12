@@ -203,7 +203,7 @@ let CONFIG = {
       url: 'https://ui.adsabs.harvard.edu',
       search: '/search/q=author"{}"',
       color: 'linear-gradient(135deg, #00008B, #5A646E)',
-      icon: 'ads',
+      icon: 'dataservice',
       quickLaunch: false,
     },
     {
