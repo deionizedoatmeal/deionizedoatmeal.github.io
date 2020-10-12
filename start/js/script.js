@@ -39,7 +39,7 @@ let CONFIG = {
       url: 'https://portal.colgate.edu',
       search: '',
       color: 'linear-gradient(135deg, #821019, #5A646E)',
-      icon: 'circle',
+      icon: 'colgate',
       quickLaunch: false,
     },
     {
@@ -49,7 +49,7 @@ let CONFIG = {
       url: 'https://moodle.colgate.edu',
       search: '',
       color: 'linear-gradient(135deg, #821019, #5A646E)',
-      icon: 'circle',
+      icon: 'moodle',
       quickLaunch: false,
     },
     {
@@ -191,7 +191,7 @@ let CONFIG = {
       name: 'APS Physics',
       key: '',
       url: 'https://physics.aps.org',
-      search: '',
+      search: 'aps',
       color: 'linear-gradient(135deg, #301934, #5A646E)',
       icon: 'circle',
       quickLaunch: false,
@@ -203,7 +203,7 @@ let CONFIG = {
       url: 'https://ui.adsabs.harvard.edu',
       search: '/search/q=author"{}"',
       color: 'linear-gradient(135deg, #00008B, #5A646E)',
-      icon: 'circle',
+      icon: 'ads',
       quickLaunch: false,
     },
     {
@@ -249,7 +249,7 @@ let CONFIG = {
       url: 'https://www.wikipedia.org',
       search: '/wiki/{}',
       color: 'linear-gradient(135deg, #FFFFFF, #000000)',
-      icon: 'circle',
+      icon: 'wiki',
       quickLaunch: false,
     },
     {
