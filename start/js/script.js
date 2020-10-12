@@ -191,9 +191,9 @@ let CONFIG = {
       name: 'APS Physics',
       key: '',
       url: 'https://physics.aps.org',
-      search: 'aps',
+      search: '',
       color: 'linear-gradient(135deg, #301934, #5A646E)',
-      icon: 'circle',
+      icon: 'apd',
       quickLaunch: false,
     },
     {
