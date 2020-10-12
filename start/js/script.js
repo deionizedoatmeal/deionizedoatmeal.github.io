@@ -193,7 +193,7 @@ let CONFIG = {
       url: 'https://physics.aps.org',
       search: '',
       color: 'linear-gradient(135deg, #301934, #5A646E)',
-      icon: 'apd',
+      icon: 'aps',
       quickLaunch: false,
     },
     {
