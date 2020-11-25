@@ -161,7 +161,7 @@ let CONFIG = {
       category: 'Outdoor',
       name: 'Maps',
       key: 'm',
-      url: 'https://google.com/maps/',
+      url: 'https://googlemaps.com/',
       search: '/maps/search/{}',
       color: 'linear-gradient(135deg, #0F9D58, #DB4437, #4285F4)',
       icon: 'maps',
