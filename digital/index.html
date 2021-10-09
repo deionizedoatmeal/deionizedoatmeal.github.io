@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<title>ian's website</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href=../w3.css>
+<link rel="stylesheet" href=../fonts.css>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1 {font-family: "JetBrainsMono"}
+img {margin-bottom: -7px}
+body, html {
+  height: 100%;
+  color: #DADDD8;
+  line-height: 1.8;
+}
+
+.w3-row-padding img {margin-bottom: 12px}
+</style>
+<body class="w3-daddd8">
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-22525c" id="myNavbar">
+    <a href=../index.html class="w3-bar-item w3-button">HOME</a>
+    <a href=../about/index.html class="w3-bar-item w3-button">ABOUT</a>
+    <a href="../index.html#photos" class="w3-bar-item w3-button">PHOTOGRAPHY</a>
+    <a href=../research/index.html class="w3-bar-item w3-button">RESEARCH</a>
+    <a href=../blog/index.html class="w3-bar-item w3-button">BLOG</a>
+  </div>
+ 
+  <!-- Navbar on small screens -->
+  <div id="navDemo" class="w3-bar-block w3-hide w3-hide-large w3-hide-medium">
+    <a href=../index.html class="w3-bar-item w3-button">HOME</a>
+    <a href=../about/index.html class="w3-bar-item w3-button">ABOUT</a>
+    <a href="../index.html#photos" class="w3-bar-item w3-button">PHOTOGRAPHY</a>
+    <a href=../research/index.html class="w3-bar-item w3-button">RESEARCH</a>
+    <a href=../blog/index.html class="w3-bar-item w3-button">BLOG</a>
+  </div>
+</div>
+
+
+<!-- !PAGE CONTENT! -->
+<div class="w3-content w3-daddd8" style="max-width:1500px">
+
+<!-- Header -->
+<br>
+<br>
+<br>
+<br>
+<div>
+<div class="w3-clear"></div>
+<header class="w3-center w3-margin-bottom">
+   <span class="w3-center w3-padding-large w3-22525c w3-xlarge w3-wide w3-animate-opacity"><span class="w3-hide-small">DIGITAL</span></span>
+</header>
+</div>
+
+<!-- LEFT Column in the Grid -->
+<div class="w3-row-padding" id="myGrid" style="margin-bottom:128px">
+  <div class="w3-third">
+    <img src="../images/DSC01883edit.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="moraine lake, oregon">
+    <img src="../images/DSC03450.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="salt creek falls, oregon">
+    <img src="../images/DSC04432.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="indian ridge firelookout, oregon">
+    <img src="../images/DSC05259_1.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="hobbit beach, oregon">
+    <img src="../images/LRM_EXPORT_97922554519571_20190830_180046243.jpeg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="eugene, oregon">
+  </div>
+
+<!-- MIDDLE Column -->
+  <div class="w3-third">
+    <img src="../images/DSC01908edit.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="moraine lake, oregon">
+    <img src="../images/DSC03453.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="salt creek falls, oregon">
+    <img src="../images/DSC04874.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="füssen, bavaria">
+    <img src="../images/DSC05304_1.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="hobbit beach, oregon">
+    <img src="../images/LRM_EXPORT_98263706326889_20190830_180627395.jpeg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="eugene, oregon">
+  </div>
+
+
+<!-- RIGHT Column -->
+  <div class="w3-third">
+    <img src="../images/DSC01910edit.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="moraine lake, oregon">
+    <img src="../images/DSC03889-1.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="oregon coast range">
+    <img src="../images/DSC05132.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="füssen, bavaria">
+    <img src="../images/DSC05328_1.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="hobbit beach, oregon"> 
+    <img src="../images/LRM_EXPORT_100125284998783_20190714_232341214.jpeg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="eugene, oregon">
+  </div>
+</div>
+
+<!-- Modal for full size images on click-->
+<div id="modal01" class="w3-modal w3-daddd8" onclick="this.style.display='none'">
+  <span class="w3-button w3-large w3-daddd8 w3-display-topright" title="Close Modal Image"><i c    lass="fa fa-remove"></i></span>
+  <div class="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
+    <img id="img01" class="w3-image">
+    <p id="caption" class="w3-opacity w3-large"></p>
+  </div>
+</div>
+
+<!-- End Page Content -->
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-center w3-margin-top">
+ <p>Please, whatever you do, don't contact me online.</p>
+ <a style="text-decoration:none" href="https://www.linkedin.com/in/iankbania" class="fa fa-linkedin w3-large w3-hover-opacity"></a>
+ <a style="text-decoration:none" href="https://github.com/deionizedoatmeal" class="fa fa-github  w3-large w3-hover-opacity"></a>
+ <a style="text-decoration:none" href="mailto:ian.k.bania@gmail.com" class="fa fa-envelope w3-large w3-hover-opacity"></a>
+ <a style="text-decoration:none" href="https://www.instagram.com/iankbania/" class="fa fa-instagram w3-large w3-hover-opacity"></a>
+</footer>
+<br>
+<br>
+
+<script>
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+</script>
+
+</body>
+</html>
+

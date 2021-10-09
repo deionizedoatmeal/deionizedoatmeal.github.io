@@ -1,0 +1,7 @@
+
+Personal Website Theme
+#DADDD8 --> Foreground
+#22525C --> Primary
+#CEB1BE --> Acent
+#405140 --> Secondary
+#212C30 --> Background
