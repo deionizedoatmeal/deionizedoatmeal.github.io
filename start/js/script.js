@@ -247,7 +247,7 @@ let CONFIG = {
       name: 'Wikipedia',
       key: 'w',
       url: 'https://www.wikipedia.org',
-      search: '/wiki/{}',
+      search: '/w/index.php?search={}',
       color: 'linear-gradient(135deg, #FFFFFF, #000000)',
       icon: 'wiki',
       quickLaunch: false,
