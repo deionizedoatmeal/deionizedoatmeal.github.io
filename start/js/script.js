@@ -70,7 +70,7 @@ let CONFIG = {
     },
     {
       category: 'Engineer',
-      name: 'Circuit Simulator',
+      name: 'Falstad',
       key: '',
       url: 'https://falstad.com/circuit/',
       color: 'linear-gradient(135deg, #208500, #000000)',
@@ -89,7 +89,7 @@ let CONFIG = {
     },
     {
       category: 'Engineer',
-      name: 'tinkercad',
+      name: 'Tinkercad',
       key: '',
       url: 'https://tinkercad.com',
       color: 'linear-gradient(135deg, #22b45c, #ff7b39)',
