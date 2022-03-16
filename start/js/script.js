@@ -64,7 +64,7 @@ let CONFIG = {
       name: 'Digikey',
       key: '',
       url: 'https://digikey.com/',
-      color: 'linear-gradient(135deg, #ce0000, #000000)',
+      color: 'linear-gradient(135deg, #ce0000, #FFFFFF)',
       icon: 'adafruit',
       quickLaunch: true,
     },
