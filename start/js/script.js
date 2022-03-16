@@ -293,7 +293,6 @@ let CONFIG = {
       quickLaunch: false,
     },
     {
-      category: 'Outdoor',
       name: 'Outdoor Proj.',
       key: '',
       url: 'https://outdoorproject.com',
