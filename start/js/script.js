@@ -304,7 +304,7 @@ let CONFIG = {
       category: 'Outdoor',
       name: 'NOAA NWS',
       key: '',
-      url: 'https://forecast.weather.gov/MapClick.php?lat=44.053&lon=-123.1122&unit=0&lg=english&FcstType=graphical',
+      url: 'https://forecast.weather.gov/MapClick.php?lon=-86.7348289489746&lat=34.70693283155326',
       color: 'linear-gradient(135deg, #7A5F00, #98ff98)',
       icon: 'noaa',
       quickLaunch: true,
