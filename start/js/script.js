@@ -42,7 +42,6 @@ let CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'Engineer',
       name: 'Digikey',
       key: '',
       url: 'https://digikey.com/',
@@ -51,7 +50,6 @@ let CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'Engineer',
       name: 'Falstad',
       key: '',
       url: 'https://falstad.com/circuit/',
@@ -70,7 +68,15 @@ let CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'Science',
+      category: 'Tools',
+      name: 'Onshape',
+      key: '',
+      url: 'https://cad.onshape.com',
+      color: 'linear-gradient(135deg, #B9C2D9, #008000)',
+      icon: 'onshape',
+      quickLaunch: true,
+    },
+    {
       name: 'Astrobites',
       key: '',
       url: 'https://astrobites.org/',
@@ -79,7 +85,6 @@ let CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'Science',
       name: 'APOD',
       key: '',
       url: 'https://apod.nasa.gov',
@@ -88,7 +93,6 @@ let CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'Science',
       name: 'arXiv',
       key: 'x',
       url: 'https://arxiv.org',
@@ -134,7 +138,6 @@ let CONFIG = {
       quickLaunch: false,
     },
     {
-      category: 'Content',
       name: 'XKCD',
       key: '',
       url: 'https://xkcd.com',
@@ -190,7 +193,6 @@ let CONFIG = {
       quickLaunch: false,
     },
     {
-      category: 'Weather',
       name: 'Darksky',
       key: '',
       url: 'https://darksky.net',
@@ -209,7 +211,6 @@ let CONFIG = {
       quickLaunch: false,
     },
     {
-      category: 'Science',
       name: 'APS Physics',
       key: '',
       url: 'https://physics.aps.org',
@@ -219,7 +220,6 @@ let CONFIG = {
       quickLaunch: false,
     },
     {
-      category: 'Science',
       name: 'NASA ADS',
       key: 'h',
       url: 'https://ui.adsabs.harvard.edu',
@@ -229,7 +229,6 @@ let CONFIG = {
       quickLaunch: false,
     },
     {
-      category: 'Science',
       name: 'MESA Docs',
       key: '',
       url: 'https://docs.mesastar.org',
@@ -328,7 +327,6 @@ let CONFIG = {
       quickLaunch: false,
     },
     {
-      category: 'Content',
       name: 'Wildness',
       key: '',
       url: 'https://readwildness.com',
@@ -345,7 +343,6 @@ let CONFIG = {
       quickLaunch: false,
     },
     {
-      category: 'Content',
       name: 'Nautilus',
       key: '',
       url: 'http://nautil.us/',
@@ -354,7 +351,6 @@ let CONFIG = {
       quickLaunch: false,
     },
     {
-      category: 'Content',
       name: 'Quanta',
       key: '',
       url: 'https://www.quantamagazine.org',
